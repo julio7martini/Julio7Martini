@@ -1,7 +1,8 @@
 # 👨🏻‍💻 Júlio Martini
 **`Desenvolvedor`**
 
-Me chamo Julio Cesar Martini, tenho 18 anos e sou natural de Blumenau - Santa Catarina. Concluí o ensino médio com formação técnica em programação e atualmente estou cursando o +Devs2Blu em C#. Sou apaixonado por tecnologia e sempre busco me desafiar com novos aprendizados e projetos, focando no constante aprimoramento das minhas habilidades como desenvolvedor. Para saber mais sobre minha trajetória, acesse meu "[LinkedIn](www.linkedin.com/in/julio-martini7)"
+Me chamo Julio Cesar Martini, tenho 18 anos e sou natural de Blumenau - Santa Catarina. Concluí o ensino médio com formação técnica em programação e atualmente estou cursando o +Devs2Blu em C#. Sou apaixonado por tecnologia e sempre busco me desafiar com novos aprendizados e projetos, focando no constante aprimoramento das minhas habilidades como desenvolvedor. Para saber mais sobre minha trajetória, acesse meu [LinkedIn](https://www.linkedin.com/in/julio-martini7).
+
 
 ---
 
